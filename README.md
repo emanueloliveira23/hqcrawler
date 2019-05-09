@@ -20,5 +20,5 @@ npm install
 
 ## How to contribute
 
-If you know more HQs sites, fell free to create more parsers at `robots/parsers`. 
+If you know more HQs sites, fell free to create more parsers at `robots/parsers`.
 Take a look at the existent one and create a new.
