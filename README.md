@@ -1,7 +1,18 @@
 
 # hqcrawler
 
-Flow:
+## Installing
+
+Requirements:
+
+* node
+* npm
+
+```
+npm install
+```
+
+## Running
 
 1. Fill `hqs.json` with the URLs pages to crawler.
 2. Run `node index.js` and wait...
