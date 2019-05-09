@@ -1,0 +1,25 @@
+{
+  "name": "hqcrawler",
+  "version": "0.0.0",
+  "description": "Get HQs from web and turn in PDFs to offline read or print.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hq",
+    "crawler",
+    "pdf",
+    "offline",
+    "print"
+  ],
+  "author": "Emanuel Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "images-to-pdf": "^1.0.3",
+    "md5": "^2.2.1",
+    "mime-types": "^2.1.24",
+    "request": "^2.88.0"
+  }
+}
