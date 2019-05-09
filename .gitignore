@@ -2,5 +2,7 @@
 node_modules/*
 
 images/*
+!images/.exists
 
 pdfs/*
+!pdfs/.exists
