@@ -41,7 +41,7 @@ async function download(hq) {
       const imageNumber = idx + 1
       log(`downloading image ${imageNumber}/${imagesCount}...`)
       const path = await downloadOneImage(image)
-      imagesPaths.push(path)
+      imagesPaths[idx] = path
     }
     return imagesPaths
   }
